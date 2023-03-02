@@ -50,3 +50,7 @@ Add your own domain name and have it point to the running services (try adding a
 ## Link to the running elastic beanstalk deployment
 
 http://image-filter-180122-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://ichef.bbci.co.uk/news/976/cpsprodpb/111A3/production/_128815007_mediaitem128815006.jpg
+
+## GitHub repository URL link
+
+https://github.com/mstrmindz/image-filter-180122.git
